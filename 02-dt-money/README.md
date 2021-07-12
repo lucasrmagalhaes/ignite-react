@@ -9,4 +9,4 @@
 
 #### Instalando Styled components
 <pre>yarn add styled-components</pre>
-<pre>yarn add @types/styled-components -D</pre>
+<pre>yarn add @types/styled-components</pre>
