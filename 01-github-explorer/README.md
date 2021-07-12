@@ -54,3 +54,13 @@
 <pre>yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh</pre>
 
 <hr />
+
+### Usando TypeScript
+
+#### TypeScript no ReactJS
+<pre>yarn add typescript -D</pre>
+<pre>yarn tsc --init</pre>
+<pre>yarn add @babel/preset-typescript -D</pre>
+<pre>yarn add @types/react-dom -D</pre>
+
+<hr />
