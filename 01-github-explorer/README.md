@@ -1,4 +1,4 @@
-# Ignite - Trilha ReactJS
+# Chapter I
 
 ## Fundamentos do ReactJS
 
