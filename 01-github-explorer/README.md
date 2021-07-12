@@ -1,7 +1,5 @@
 # Ignite - Trilha ReactJS
 
-<hr />
-
 ## Fundamentos do ReactJS
 
 ### Configurando Ambiente
@@ -64,3 +62,8 @@
 <pre>yarn add @types/react-dom -D</pre>
 
 <hr />
+
+### Finalizando Aplicação
+
+#### Utilizando React DevTools
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
