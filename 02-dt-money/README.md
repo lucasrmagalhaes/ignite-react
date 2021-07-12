@@ -1,6 +1,8 @@
 # Chapter II
 
-## Estrutura da aplicação
+## Primeira aplicação web com ReactJS
 
-### Estrutura com create-react-app
+### Estrutura da aplicação
+
+#### Estrutura com create-react-app
 <pre>yarn create react-app 02-dt-money --template typescript</pre>
