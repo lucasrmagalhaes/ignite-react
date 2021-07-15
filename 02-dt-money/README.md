@@ -25,3 +25,6 @@
 ##### Configurando modal de criação
 <pre>yarn add react-modal</pre>
 <pre>yarn add @types/react-modal -D</pre>
+
+##### Criando botões de Tipo
+<pre>yarn add polished</pre>

@@ -1,6 +1,9 @@
 import Modal from 'react-modal'
+import incomeImg from '../../assets/income.svg'
+import outcomeImg from '../../assets/outcome.svg'
 import closeImg from '../../assets/close.svg'
-import { Container } from './styles';
+import { Container, TransactionTypeContainer, RadioBox } from './styles';
+import { useState } from 'react';
 
 interface NewTransactionModalProps {
     isOpen: boolean;
@@ -8,41 +11,63 @@ interface NewTransactionModalProps {
 }
 
 export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionModalProps) {
-    return (
-        <Modal 
-            isOpen={isOpen} 
-            onRequestClose={onRequestClose}
-            overlayClassName="react-modal-overlay"
-            className="react-modal-content"
-        >
-            <button 
-                type="button" 
-                onClick={onRequestClose} 
-                className="react-modal-close"
-            >
-                <img src={closeImg} alt="Fechar modal" />
-            </button>
+  const [type, setType] = useState('deposit');
 
-            <Container>
-                <h2>Cadastrar Transação</h2>
+  return (
+    <Modal 
+      isOpen={isOpen} 
+      onRequestClose={onRequestClose}
+      overlayClassName="react-modal-overlay"
+      className="react-modal-content"
+    >
+      <button 
+        type="button" 
+        onClick={onRequestClose} 
+        className="react-modal-close"
+      >
+        <img src={closeImg} alt="Fechar modal" />
+      </button>
 
-                <input 
-                    placeholder="Título"
-                />
+      <Container>
+        <h2>Cadastrar Transação</h2>
 
-                <input 
-                    type="number"
-                    placeholder="Valor"
-                />
+        <input 
+          placeholder="Título"
+        />
 
-                <input 
-                    placeholder="Categoria"
-                />
+        <input 
+          type="number"
+          placeholder="Valor"
+        />
 
-                <button type="submit">
-                    Cadastrar
-                </button>
-            </Container>
-        </Modal>
-    );
+        <TransactionTypeContainer>
+          <RadioBox 
+            type="button"
+            onClick={() => { setType('deposit') }}
+            isActive={type === 'deposit'}
+          >
+            <img src={incomeImg} alt="Entrada" />
+            <span>Entrada</span>
+          </RadioBox>
+
+          <RadioBox 
+            type="button"
+            onClick={() => { setType('withdraw') }}
+            isActive={type === 'withdraw'}
+          >
+            <img src={outcomeImg} alt="Saída" />
+            <span>Saída</span>
+          </RadioBox>
+        </TransactionTypeContainer>
+
+        <input 
+          placeholder="Categoria"
+        />
+
+        <button type="submit">
+          Cadastrar
+        </button>
+      </Container>
+    </Modal>
+  );
 }
