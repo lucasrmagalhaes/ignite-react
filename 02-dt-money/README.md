@@ -17,3 +17,6 @@
 [Mirage](https://miragejs.com/)
 <pre>yarn add miragejs</pre>
 
+##### Configurando cliente do Axios
+<pre>yarn add axios</pre>
+
