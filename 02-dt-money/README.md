@@ -20,3 +20,8 @@
 ##### Configurando cliente do Axios
 <pre>yarn add axios</pre>
 
+#### Modal & Forms
+
+##### Configurando modal de criação
+<pre>yarn add react-modal</pre>
+<pre>yarn add @types/react-modal -D</pre>
