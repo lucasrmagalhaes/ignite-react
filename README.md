@@ -1,4 +1,4 @@
-<h2 align="center">Ignite - Trilha ReactJS</h2>
+<h2 align="center">Ignite - Trilha ReactJS 🚀</h2>
 
 - [x] [**Chapter I: Fundamentos do ReactJS**](https://github.com/lucasrmagalhaes/ignite-react/tree/chapterI)<br /><br />
 - [x] [Projeto: GitHub Explorer 📂](https://github-explorer-ignite-react.netlify.app/) 
