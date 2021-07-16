@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://dt-money-react.netlify.app/" target="_blank">
     <img 
-         src="https://raw.githubusercontent.com/lucasrmagalhaes/ignite-react/chapterII/public/dt-money.jpg?token=AKKKNU6P7TNMOPOPENJUNXTA7IJXG" 
+         src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterII/public/dt-money.jpg" 
          alt="dt-money" 
     />
   </a>
