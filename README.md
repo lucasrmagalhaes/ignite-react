@@ -1,10 +1,6 @@
-# Ignite - Trilha ReactJS
+## Chapter I: Fundamentos do ReactJS
 
-<hr />
-
-## Fundamentos do ReactJS
-
-### Configurando ambiente
+### Configurando Ambiente
 
 #### Criando estrutura do projeto
 <pre>yarn init -y</pre>
@@ -46,4 +42,20 @@
 <pre>yarn add sass-loader -D</pre>
 <pre>yarn add node-sass -D</pre>
 
-<hr />
+### Conceitos Importantes
+
+#### Fast Refresh no Webpack
+<pre>yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh</pre>
+
+### Usando TypeScript
+
+#### TypeScript no ReactJS
+<pre>yarn add typescript -D</pre>
+<pre>yarn tsc --init</pre>
+<pre>yarn add @babel/preset-typescript -D</pre>
+<pre>yarn add @types/react-dom -D</pre>
+
+### Finalizando Aplicação
+
+#### Utilizando React DevTools
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
