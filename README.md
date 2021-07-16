@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github-explorer-ignite-react.netlify.app/" target="_blank">
     <img 
-         src="https://raw.githubusercontent.com/lucasrmagalhaes/ignite-react/chapterI/public/github-explorer.jpg?token=AKKKNU2FGYSHBSTNSPJSG43A7IN64" 
+         src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterI/public/github-explorer.jpg" 
          alt="GitHub Explorer" 
     />
   </a>
