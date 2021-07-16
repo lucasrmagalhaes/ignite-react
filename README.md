@@ -1,3 +1,16 @@
+<h1 align="center">dt-money 💰</h1>
+
+<p align="center">
+  <a href="https://dt-money-react.netlify.app/" target="_blank">
+    <img 
+         src="https://raw.githubusercontent.com/lucasrmagalhaes/ignite-react/chapterII/public/dt-money.jpg?token=AKKKNU6P7TNMOPOPENJUNXTA7IJXG" 
+         alt="dt-money" 
+    />
+  </a>
+  <br />
+<!-- <i>dt-money</i> -->
+</p>
+
 ## Chapter II: Primeira Aplicação Web com ReactJS
 
 ### Estrutura da Aplicação
