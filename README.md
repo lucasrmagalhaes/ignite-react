@@ -1,3 +1,16 @@
+<h1 align="center">GitHub Explorer 📂</h1>
+
+<p align="center">
+  <a href="https://github-explorer-ignite-react.netlify.app/" target="_blank">
+    <img 
+         src="https://raw.githubusercontent.com/lucasrmagalhaes/ignite-react/chapterI/public/github-explorer.jpg?token=AKKKNU2FGYSHBSTNSPJSG43A7IN64" 
+         alt="GitHub Explorer" 
+    />
+  </a>
+  <br />
+  <!-- <i>GitHub Explorer</i> -->
+</p>
+
 ## Chapter I: Fundamentos do ReactJS
 
 ### Configurando Ambiente
