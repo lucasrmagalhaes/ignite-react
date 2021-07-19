@@ -7,3 +7,6 @@
 
 #### Adicionando TypeScript
 <pre>yarn add typescript @types/react @types/node -D</pre>
+
+#### Estilização com SASS
+<pre>yarn add sass</pre>
