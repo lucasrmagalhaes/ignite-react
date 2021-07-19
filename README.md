@@ -15,3 +15,6 @@
 
 #### Componente: SigInButton
 <pre>yarn add react-icons</pre>
+
+### Integração com API
+<pre>yarn add stripe</pre>
