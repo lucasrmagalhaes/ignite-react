@@ -10,3 +10,8 @@
 
 #### Estilização com SASS
 <pre>yarn add sass</pre>
+
+### Componente e páginas
+
+#### Componente: SigInButton
+<pre>yarn add react-icons</pre>
