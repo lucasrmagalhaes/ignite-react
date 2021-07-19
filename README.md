@@ -4,3 +4,6 @@
 
 #### Criando estrutura Next.js
 <pre>yarn create next-app ignews</pre>
+
+#### Adicionando TypeScript
+<pre>yarn add typescript @types/react @types/node -D</pre>
