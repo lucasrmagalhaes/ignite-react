@@ -18,3 +18,9 @@
 
 ### Integração com API
 <pre>yarn add stripe</pre>
+
+## Chapter III: Back-end no front-end
+
+### Autenticação com Next Auth
+<pre>yarn add next-auth</pre>
+<pre>yarn add @types/next-auth -D</pre>
