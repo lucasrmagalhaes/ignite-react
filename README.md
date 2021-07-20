@@ -30,4 +30,8 @@
 ### Usando FaunaDB
 
 #### Escolhendo um banco de dados
-- [fauna](https://fauna.com/)
+- [Fauna](https://fauna.com/)
+
+#### Configurando FaunaDB
+- [Fauna DEV](https://docs.fauna.com/fauna/current/integrations/dev.html)
+<pre>yarn add faunadb</pre>
