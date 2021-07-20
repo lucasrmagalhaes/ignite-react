@@ -46,3 +46,9 @@
 #### Redirecionando para o Stripe
 <pre>yarn add axios</pre>
 <pre>yarn add @stripe/stripe-js</pre>
+
+- CMD:
+<pre>start stripe.exe</pre>
+<pre>stripe -h</pre>
+<pre>stripe login</pre>
+<pre>stripe listen --forward-to localhost:3000/api/webhooks</pre>
