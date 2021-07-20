@@ -35,3 +35,6 @@
 #### Configurando FaunaDB
 - [Fauna DEV](https://docs.fauna.com/fauna/current/integrations/dev.html)
 <pre>yarn add faunadb</pre>
+
+#### Salvando usuário no banco
+<pre>http://www.md5.cz/</pre>
