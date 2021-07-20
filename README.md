@@ -40,4 +40,3 @@
 [NextAuth Warnings](https://next-auth.js.org/warnings)
 <pre>npm i node-jose-tools</pre>
 <pre>jose newkey -s 256 -t oct -a HS512</pre>
-
