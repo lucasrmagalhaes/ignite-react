@@ -21,6 +21,13 @@
 
 ## Chapter III: Back-end no front-end
 
-### Autenticação com Next Auth
+### API Routes no Next.js
+
+#### Autenticação com Next Auth
 <pre>yarn add next-auth</pre>
 <pre>yarn add @types/next-auth -D</pre>
+
+### Usando FaunaDB
+
+#### Escolhendo um banco de dados
+- [fauna](https://fauna.com/)
