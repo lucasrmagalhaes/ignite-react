@@ -37,4 +37,7 @@
 <pre>yarn add faunadb</pre>
 
 #### Salvando usuário no banco
-<pre>http://www.md5.cz/</pre>
+[NextAuth Warnings](https://next-auth.js.org/warnings)
+<pre>npm i node-jose-tools</pre>
+<pre>jose newkey -s 256 -t oct -a HS512</pre>
+
