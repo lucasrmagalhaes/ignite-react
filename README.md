@@ -66,3 +66,6 @@
 
 #### Configurando Prismic CMS
 [prismic](https://prismic.io/)
+
+#### Consumindo API do Prismic
+<pre>yarn add @prismicio/client</pre>
