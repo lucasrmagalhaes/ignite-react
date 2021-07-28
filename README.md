@@ -19,6 +19,8 @@
 ### Integração com API
 <pre>yarn add stripe</pre>
 
+<hr />
+
 ## Chapter III: Back-end no front-end
 
 ### API Routes no Next.js
@@ -47,7 +49,6 @@
 <pre>yarn add axios</pre>
 <pre>yarn add @stripe/stripe-js</pre>
 
-
 ### Ouvindo webhooks
 
 #### Webhooks do Stripe
@@ -56,3 +57,12 @@
 <pre>stripe -h</pre>
 <pre>stripe login</pre>
 <pre>stripe listen --forward-to localhost:3000/api/webhooks</pre>
+
+<hr />
+
+## Chapter III: Front-end JAMStack
+
+### Trabalhando com CMS
+
+#### Configurando Prismic CMS
+[prismic](https://prismic.io/)
