@@ -69,3 +69,7 @@
 
 #### Consumindo API do Prismic
 <pre>yarn add @prismicio/client</pre>
+
+#### Listando Posts em Tela
+<pre>yarn add prismic-dom</pre>
+<pre>yarn add @types/prismic-dom</pre>
