@@ -1,9 +1,9 @@
 <h1 align="center">ig.news</h1>
 
 <p align="center">
-  <a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" target="_blank">
+  <a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/main/ig.news/public/ignews.gif" target="_blank">
     <img 
-         src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" 
+         src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/main/ig.news/public/ignews.gif" 
          alt="ig.news" 
     />
   </a>
