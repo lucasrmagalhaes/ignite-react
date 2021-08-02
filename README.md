@@ -1,3 +1,16 @@
+<h1 align="center">Ignews</h1>
+
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" target="_blank">
+    <img 
+         src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" 
+         alt="Ignews" 
+    />
+  </a>
+  <br />
+<!-- <i>Ignews</i> -->
+</p>
+
 ## Chapter III: Fundamentos do Next.js
 
 ### Estrutura da Aplicação
