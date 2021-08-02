@@ -1,14 +1,14 @@
-<h1 align="center">Ignews</h1>
+<h1 align="center">ig.news</h1>
 
 <p align="center">
   <a href="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" target="_blank">
     <img 
          src="https://github.com/lucasrmagalhaes/ignite_rockeatseat-react/blob/chapterIII/public/ignews.gif" 
-         alt="Ignews" 
+         alt="ig.news" 
     />
   </a>
   <br />
-<!-- <i>Ignews</i> -->
+<!-- <i>ig.news</i> -->
 </p>
 
 ## Chapter III: Fundamentos do Next.js
