@@ -52,6 +52,7 @@
 ### Ouvindo webhooks
 
 #### Webhooks do Stripe
+[stripe-cli](https://github.com/stripe/stripe-cli)
 - CMD:
 <pre>start stripe.exe</pre>
 <pre>stripe -h</pre>
