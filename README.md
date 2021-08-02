@@ -5,5 +5,5 @@
 - [x] [Desafio: Conceitos do React](https://github.com/lucasrmagalhaes/desafio_conceitos-react)
 - [x] [Desafio: Componentizando a Aplicação](https://github.com/lucasrmagalhaes/desafio_componetizando-react) <br /><br />
 - [x] [**Chapter II: Primeira Aplicação Web com ReactJS**](https://github.com/lucasrmagalhaes/ignite-react/tree/chapterII) <br /><br />
-- [x] [Projeto: dt-money 💰](https://dt-money-react.netlify.app/)
+- [x] [Projeto: dt-money 💰](https://dt-money-react.netlify.app/) <br /><br />
 - [x] [**Chapter III: Fundamentos do Next.js, Back-end no front-end e Front-end JAMStack**](https://github.com/lucasrmagalhaes/ignite-react/tree/chapterIII) <br /><br />
